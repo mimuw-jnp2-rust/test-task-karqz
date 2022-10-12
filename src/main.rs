@@ -3,6 +3,7 @@ fn test() -> bool {
 }
 
 fn main() {
+    assert!(test());
     println!("Hello, world!");
 }
 
